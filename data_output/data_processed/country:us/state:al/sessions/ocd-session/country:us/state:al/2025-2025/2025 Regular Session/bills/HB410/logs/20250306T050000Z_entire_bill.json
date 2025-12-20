@@ -167,7 +167,7 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/HB410-int.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/HB410-int.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -178,7 +178,7 @@
       "note": "Motion to Adopt - Adopted Roll Call 1064",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/NRG6L8J-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/NRG6L8J-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -189,7 +189,7 @@
       "note": "Stringer motion to Table - Adopted Roll Call 1063",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/2JT25KI-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/2JT25KI-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -200,7 +200,7 @@
       "note": "Stringer motion to Table - Adopted Roll Call 1062",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/3P9STZZ-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/3P9STZZ-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -211,7 +211,7 @@
       "note": "Motion to Adopt - Adopted Roll Call 1061",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/9JVS2PM-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/9JVS2PM-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -222,7 +222,7 @@
       "note": "Judiciary 2nd Amendment",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/4UPMDIR-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/4UPMDIR-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -233,7 +233,7 @@
       "note": "Judiciary 1st Amendment",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/HGW1466-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/HGW1466-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -246,7 +246,7 @@
       "note": "Fiscal Note: Passed First Chamber",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-PSITQRE-2.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-PSITQRE-2.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -257,7 +257,7 @@
       "note": "Fiscal Note: Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-PSITQRE-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-PSITQRE-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -281,6 +281,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-02T01:30:44+00:00",
-  "_id": "858976e0-cf1e-11f0-99f3-feebcb255d32"
+  "scraped_at": "2025-12-20T02:28:26+00:00",
+  "_id": "90af1dbe-dd4b-11f0-b17b-7e56c8572477"
 }

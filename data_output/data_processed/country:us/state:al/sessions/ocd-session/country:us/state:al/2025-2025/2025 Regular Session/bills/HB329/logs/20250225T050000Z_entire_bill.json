@@ -95,7 +95,7 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/HB329-int.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/HB329-int.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -106,7 +106,7 @@
       "note": "Reported Out of Committee House of Origin",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/ARRVCQ7-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/ARRVCQ7-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -117,7 +117,7 @@
       "note": "County and Municipal Government 2nd Amendment",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/2JJ7MII-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/2JJ7MII-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -128,7 +128,7 @@
       "note": "County and Municipal Government 1st Amendment",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/4UUBAII-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/4UUBAII-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -141,7 +141,7 @@
       "note": "Fiscal Note: Reported by First Chamber Committee",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-U99VAXD-2.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-U99VAXD-2.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -152,7 +152,7 @@
       "note": "Fiscal Note: Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-U99VAXD-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-U99VAXD-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -176,6 +176,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-02T01:30:40+00:00",
-  "_id": "830e3dba-cf1e-11f0-99f3-feebcb255d32"
+  "scraped_at": "2025-12-20T02:28:23+00:00",
+  "_id": "8e7f3b78-dd4b-11f0-b17b-7e56c8572477"
 }

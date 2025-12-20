@@ -220,7 +220,7 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/HB382-int.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/HB382-int.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -231,7 +231,7 @@
       "note": "Engrossed",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/HB382-eng.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/HB382-eng.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -242,7 +242,7 @@
       "note": "Enrolled",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/HB382-enr.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/HB382-enr.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -253,7 +253,7 @@
       "note": "Motion to Adopt - Adopted Roll Call 901",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/NRFSC88-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/NRFSC88-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -264,7 +264,7 @@
       "note": "Motion to Adopt - Adopted Roll Call 900",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/JPITTNN-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/JPITTNN-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -275,7 +275,7 @@
       "note": "Commerce and Small Business 1st Amendment",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/XDDG677-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/XDDG677-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -288,7 +288,7 @@
       "note": "Fiscal Note: Enacted",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-L5518YA-4.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-L5518YA-4.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -299,7 +299,7 @@
       "note": "Fiscal Note: Passed First Chamber",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-L5518YA-3.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-L5518YA-3.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -310,7 +310,7 @@
       "note": "Fiscal Note: Reported by First Chamber Committee",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-L5518YA-2.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-L5518YA-2.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -321,7 +321,7 @@
       "note": "Fiscal Note: Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-L5518YA-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-L5518YA-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -345,6 +345,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-02T01:30:42+00:00",
-  "_id": "849a547a-cf1e-11f0-99f3-feebcb255d32"
+  "scraped_at": "2025-12-20T02:28:25+00:00",
+  "_id": "8fc87d28-dd4b-11f0-b17b-7e56c8572477"
 }

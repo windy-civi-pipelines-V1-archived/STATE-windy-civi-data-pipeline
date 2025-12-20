@@ -58,7 +58,7 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/HB173-int.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/HB173-int.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -83,6 +83,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-02T01:30:31+00:00",
-  "_id": "7d8f1346-cf1e-11f0-99f3-feebcb255d32"
+  "scraped_at": "2025-12-20T02:28:15+00:00",
+  "_id": "8a231c34-dd4b-11f0-b17b-7e56c8572477"
 }

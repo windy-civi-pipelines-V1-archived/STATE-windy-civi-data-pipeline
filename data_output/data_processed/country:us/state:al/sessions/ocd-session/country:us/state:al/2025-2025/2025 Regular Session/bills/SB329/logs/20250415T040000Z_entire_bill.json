@@ -168,7 +168,7 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/SB329-int.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/SB329-int.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -179,7 +179,7 @@
       "note": "Enrolled",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/SB329-enr.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/SB329-enr.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -204,6 +204,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-02T01:31:11+00:00",
-  "_id": "95d8ada4-cf1e-11f0-99f3-feebcb255d32"
+  "scraped_at": "2025-12-20T02:28:51+00:00",
+  "_id": "9f2b6208-dd4b-11f0-b17b-7e56c8572477"
 }

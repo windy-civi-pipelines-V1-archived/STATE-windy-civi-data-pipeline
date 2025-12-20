@@ -98,7 +98,7 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/SB277-int.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/SB277-int.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -109,7 +109,7 @@
       "note": "Coleman-Madison motion to Adopt - Adopted Roll Call 900",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/6YPCD31-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/6YPCD31-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -122,7 +122,7 @@
       "note": "Fiscal Note: Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-PS6HJRE-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-PS6HJRE-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -146,6 +146,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-02T01:31:09+00:00",
-  "_id": "943b4290-cf1e-11f0-99f3-feebcb255d32"
+  "scraped_at": "2025-12-20T02:28:48+00:00",
+  "_id": "9db42a5e-dd4b-11f0-b17b-7e56c8572477"
 }

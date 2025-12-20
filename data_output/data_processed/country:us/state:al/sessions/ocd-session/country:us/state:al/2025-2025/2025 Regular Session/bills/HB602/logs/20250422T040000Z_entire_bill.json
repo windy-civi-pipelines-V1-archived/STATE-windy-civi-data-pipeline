@@ -165,7 +165,7 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/HB602-int.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/HB602-int.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -176,7 +176,7 @@
       "note": "Engrossed",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/HB602-eng.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/HB602-eng.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -187,7 +187,7 @@
       "note": "Motion to Adopt - Adopted Roll Call 1029",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/QNRXJ44-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/QNRXJ44-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -198,7 +198,7 @@
       "note": "Motion to Adopt - Adopted Roll Call 1028",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/EJPQM92-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/EJPQM92-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -223,6 +223,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-02T01:30:54+00:00",
-  "_id": "8b6a98be-cf1e-11f0-99f3-feebcb255d32"
+  "scraped_at": "2025-12-20T02:28:35+00:00",
+  "_id": "95b10cdc-dd4b-11f0-b17b-7e56c8572477"
 }

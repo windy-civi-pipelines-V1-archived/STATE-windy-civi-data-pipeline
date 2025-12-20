@@ -129,7 +129,7 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/HJR154-int.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/HJR154-int.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -140,7 +140,7 @@
       "note": "Enrolled",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/HJR154-enr.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/HJR154-enr.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -165,6 +165,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-02T01:31:15+00:00",
-  "_id": "97e7268e-cf1e-11f0-99f3-feebcb255d32"
+  "scraped_at": "2025-12-20T02:28:53+00:00",
+  "_id": "a0c14f10-dd4b-11f0-b17b-7e56c8572477"
 }

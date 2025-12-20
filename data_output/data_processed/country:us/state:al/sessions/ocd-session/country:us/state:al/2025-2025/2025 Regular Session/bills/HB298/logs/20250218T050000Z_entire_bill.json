@@ -184,7 +184,7 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/HB298-int.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/HB298-int.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -195,7 +195,7 @@
       "note": "Engrossed",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/HB298-eng.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/HB298-eng.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -206,7 +206,7 @@
       "note": "Motion to Adopt - Adopted Roll Call 1069",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FKBNVDD-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FKBNVDD-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -217,7 +217,7 @@
       "note": "Hulsey 1st Amendment - Withdrawn",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FKBWPC5-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FKBWPC5-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -228,7 +228,7 @@
       "note": "Motion to Adopt - Adopted Roll Call 1068",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/3PXAHVE-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/3PXAHVE-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -239,7 +239,7 @@
       "note": "Motion to Adopt - Adopted Roll Call 1067",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FK1XJD5-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FK1XJD5-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -250,7 +250,7 @@
       "note": "Motion to Adopt - Adopted Roll Call 1066",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/KHMEGAA-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/KHMEGAA-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -263,7 +263,7 @@
       "note": "Fiscal Note: Reported by First Chamber Committee",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-XDD1A7E-2.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-XDD1A7E-2.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -274,7 +274,7 @@
       "note": "Fiscal Note: Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-XDD1A7E-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-XDD1A7E-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -298,6 +298,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-02T01:30:38+00:00",
-  "_id": "8207325a-cf1e-11f0-99f3-feebcb255d32"
+  "scraped_at": "2025-12-20T02:28:21+00:00",
+  "_id": "8dad6648-dd4b-11f0-b17b-7e56c8572477"
 }

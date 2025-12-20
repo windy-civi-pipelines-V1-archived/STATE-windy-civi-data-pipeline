@@ -82,7 +82,7 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/HB334-int.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/HB334-int.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -93,7 +93,7 @@
       "note": "Reported Out of Committee House of Origin",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/DGY4QNN-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/DGY4QNN-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -104,7 +104,7 @@
       "note": "Insurance 1st Amendment",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/11V6JZZ-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/11V6JZZ-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -117,11 +117,11 @@
       "note": "Fiscal Note: Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-3PPUAZV-2.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-3PPUAZV-2.pdf",
           "media_type": "application/pdf"
         },
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-3PPUAZV-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-3PPUAZV-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -145,6 +145,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-02T01:30:40+00:00",
-  "_id": "83325d58-cf1e-11f0-99f3-feebcb255d32"
+  "scraped_at": "2025-12-20T02:28:23+00:00",
+  "_id": "8e9cd048-dd4b-11f0-b17b-7e56c8572477"
 }

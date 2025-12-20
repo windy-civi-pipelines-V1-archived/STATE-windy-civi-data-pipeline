@@ -180,7 +180,7 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/HB188-int.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/HB188-int.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -191,7 +191,7 @@
       "note": "Engrossed",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/HB188-eng.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/HB188-eng.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -202,7 +202,7 @@
       "note": "Motion to Adopt - Adopted Roll Call 150",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/CXGYIJQ-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/CXGYIJQ-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -213,7 +213,7 @@
       "note": "Motion to Adopt - Adopted Roll Call 149",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/MU6AWHW-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/MU6AWHW-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -224,7 +224,7 @@
       "note": "Ways and Means Education 3rd Amendment",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/TAKZ915-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/TAKZ915-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -235,7 +235,7 @@
       "note": "Ways and Means Education 2nd Amendment",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/XLTLZ7E-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/XLTLZ7E-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -246,7 +246,7 @@
       "note": "Ways and Means Education 1st Amendment",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/N2WR8JT-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/N2WR8JT-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -259,7 +259,7 @@
       "note": "Fiscal Note: Passed First Chamber",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-IA7E66W-3.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-IA7E66W-3.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -270,7 +270,7 @@
       "note": "Fiscal Note: Reported by First Chamber Committee",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-IA7E66W-2.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-IA7E66W-2.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -281,7 +281,7 @@
       "note": "Fiscal Note: Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-IA7E66W-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-IA7E66W-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -305,6 +305,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-02T01:30:31+00:00",
-  "_id": "7df84244-cf1e-11f0-99f3-feebcb255d32"
+  "scraped_at": "2025-12-20T02:28:16+00:00",
+  "_id": "8a7a18fe-dd4b-11f0-b17b-7e56c8572477"
 }

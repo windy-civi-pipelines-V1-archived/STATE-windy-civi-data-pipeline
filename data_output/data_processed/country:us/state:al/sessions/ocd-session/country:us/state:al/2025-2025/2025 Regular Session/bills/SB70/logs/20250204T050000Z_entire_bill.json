@@ -253,7 +253,7 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/SB70-int.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/SB70-int.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -264,7 +264,7 @@
       "note": "Engrossed",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/SB70-eng.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/SB70-eng.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -275,7 +275,7 @@
       "note": "Enrolled",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/SB70-enr.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/SB70-enr.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -286,7 +286,7 @@
       "note": "Motion to Adopt - Adopted Roll Call 158",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/G379526-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/G379526-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -297,7 +297,7 @@
       "note": "Motion to Adopt - Adopted Roll Call 157",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/WK2R555-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/WK2R555-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -308,7 +308,7 @@
       "note": "Military and Veterans Affairs 1st Amendment",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/3FKTEEE-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/3FKTEEE-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -319,7 +319,7 @@
       "note": "Coleman-Madison motion to Adopt - Adopted Roll Call 9",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/16GI3LZ-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/16GI3LZ-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -330,7 +330,7 @@
       "note": "Smitherman motion to Adopt - Adopted Roll Call 8",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/UA4UDGX-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/UA4UDGX-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -340,10 +340,21 @@
   ],
   "documents": [
     {
+      "note": "Fiscal Note: Enacted",
+      "links": [
+        {
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-21ARKKK-4.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Fiscal Note: Reported by Second Chamber Committee",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-21ARKKK-3.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-21ARKKK-3.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -354,7 +365,7 @@
       "note": "Fiscal Note: Passed First Chamber",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-21ARKKK-2.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-21ARKKK-2.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -365,7 +376,7 @@
       "note": "Fiscal Note: Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-21ARKKK-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-21ARKKK-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -389,6 +400,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-02T01:30:58+00:00",
-  "_id": "8e098990-cf1e-11f0-99f3-feebcb255d32"
+  "scraped_at": "2025-12-20T02:28:39+00:00",
+  "_id": "9837808a-dd4b-11f0-b17b-7e56c8572477"
 }

@@ -230,7 +230,7 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/SB41-int.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/SB41-int.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -241,7 +241,7 @@
       "note": "Engrossed",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/SB41-eng.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/SB41-eng.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -252,7 +252,7 @@
       "note": "Enrolled",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/SB41-enr.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/SB41-enr.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -263,7 +263,7 @@
       "note": "Local Legislation 1st Amendment Offered",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/11HMIZ3-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/11HMIZ3-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -274,7 +274,7 @@
       "note": "Motion to Adopt - Adopted Roll Call 496",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/AR2XT7Q-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/AR2XT7Q-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -285,7 +285,7 @@
       "note": "Chambliss motion to Adopt - Adopted Roll Call 223",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/2JX26SK-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/2JX26SK-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -310,6 +310,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-02T01:30:57+00:00",
-  "_id": "8d380762-cf1e-11f0-99f3-feebcb255d32"
+  "scraped_at": "2025-12-20T02:28:38+00:00",
+  "_id": "9755bab0-dd4b-11f0-b17b-7e56c8572477"
 }

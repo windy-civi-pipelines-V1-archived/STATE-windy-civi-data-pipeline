@@ -204,7 +204,7 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/HB200-int.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/HB200-int.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -215,7 +215,7 @@
       "note": "Enrolled",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/HB200-enr.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/HB200-enr.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -226,7 +226,7 @@
       "note": "Singleton motion to Adopt - Adopted Roll Call 541",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/L551JYY-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/L551JYY-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -239,7 +239,7 @@
       "note": "Fiscal Note: Enacted",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-UA3YDGG-4.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-UA3YDGG-4.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -250,7 +250,7 @@
       "note": "Fiscal Note: Reported by Second Chamber Committee",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-UA3YDGG-3.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-UA3YDGG-3.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -261,7 +261,7 @@
       "note": "Fiscal Note: Passed First Chamber",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-UA3YDGG-2.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-UA3YDGG-2.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -272,7 +272,7 @@
       "note": "Fiscal Note: Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-UA3YDGG-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-UA3YDGG-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -296,6 +296,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-02T01:30:32+00:00",
-  "_id": "7e4ffe8a-cf1e-11f0-99f3-feebcb255d32"
+  "scraped_at": "2025-12-20T02:28:17+00:00",
+  "_id": "8aee0b38-dd4b-11f0-b17b-7e56c8572477"
 }

@@ -127,7 +127,7 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/HB388-int.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/HB388-int.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -138,7 +138,7 @@
       "note": "Finance and Taxation Education 1st Substitute",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/G3VVEC6-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/G3VVEC6-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -151,7 +151,7 @@
       "note": "Fiscal Note: Reported by Second Chamber Committee",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-RBBJDYY-3.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-RBBJDYY-3.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -162,7 +162,7 @@
       "note": "Fiscal Note: Passed First Chamber",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-RBBJDYY-2.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-RBBJDYY-2.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -173,7 +173,7 @@
       "note": "Fiscal Note: Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-RBBJDYY-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-RBBJDYY-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -197,6 +197,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-02T01:30:43+00:00",
-  "_id": "84c572a4-cf1e-11f0-99f3-feebcb255d32"
+  "scraped_at": "2025-12-20T02:28:25+00:00",
+  "_id": "8fecb1fc-dd4b-11f0-b17b-7e56c8572477"
 }

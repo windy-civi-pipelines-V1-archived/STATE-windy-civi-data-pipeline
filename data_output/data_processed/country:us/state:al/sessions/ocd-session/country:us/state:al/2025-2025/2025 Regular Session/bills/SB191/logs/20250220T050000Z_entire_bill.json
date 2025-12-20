@@ -95,7 +95,7 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/SB191-int.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/SB191-int.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -106,7 +106,7 @@
       "note": "Healthcare 1st Substitute",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/TBBVY55-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/TBBVY55-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -119,7 +119,7 @@
       "note": "Fiscal Note: Reported by First Chamber Committee",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-3PDYPEV-2.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-3PDYPEV-2.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -130,7 +130,7 @@
       "note": "Fiscal Note: Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-3PDYPEV-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-3PDYPEV-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -154,6 +154,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-02T01:31:05+00:00",
-  "_id": "91d016c0-cf1e-11f0-99f3-feebcb255d32"
+  "scraped_at": "2025-12-20T02:28:44+00:00",
+  "_id": "9b4f85a6-dd4b-11f0-b17b-7e56c8572477"
 }

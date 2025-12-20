@@ -52,7 +52,7 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/HB599-int.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/HB599-int.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -65,7 +65,7 @@
       "note": "Fiscal Note: Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-RBSL4YM-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-RBSL4YM-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -89,6 +89,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-02T01:30:53+00:00",
-  "_id": "8b23cf38-cf1e-11f0-99f3-feebcb255d32"
+  "scraped_at": "2025-12-20T02:28:34+00:00",
+  "_id": "957ea710-dd4b-11f0-b17b-7e56c8572477"
 }

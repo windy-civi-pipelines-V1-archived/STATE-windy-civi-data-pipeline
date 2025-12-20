@@ -181,7 +181,7 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/SB92-int.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/SB92-int.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -192,7 +192,7 @@
       "note": "Engrossed",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/SB92-eng.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/SB92-eng.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -203,7 +203,7 @@
       "note": "Chesteen motion to Table - Adopted Voice Vote",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/RB1ZRYM-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/RB1ZRYM-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -214,7 +214,7 @@
       "note": "Chesteen motion to Adopt - Adopted Roll Call 595",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/HGKHN88-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/HGKHN88-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -225,7 +225,7 @@
       "note": "Chesteen motion to Adopt - Adopted Roll Call 594",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/2JJWAIK-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/2JJWAIK-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -238,7 +238,7 @@
       "note": "Fiscal Note: Passed First Chamber",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-G37SRC2-3.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-G37SRC2-3.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -249,7 +249,7 @@
       "note": "Fiscal Note: Reported by First Chamber Committee",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-G37SRC2-2.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-G37SRC2-2.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -260,7 +260,7 @@
       "note": "Fiscal Note: Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-G37SRC2-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-G37SRC2-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -284,6 +284,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-02T01:31:00+00:00",
-  "_id": "8ecf74ca-cf1e-11f0-99f3-feebcb255d32"
+  "scraped_at": "2025-12-20T02:28:40+00:00",
+  "_id": "98dbdf90-dd4b-11f0-b17b-7e56c8572477"
 }

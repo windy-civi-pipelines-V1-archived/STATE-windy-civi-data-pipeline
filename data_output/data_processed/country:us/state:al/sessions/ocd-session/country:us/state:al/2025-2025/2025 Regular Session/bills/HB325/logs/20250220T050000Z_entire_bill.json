@@ -198,7 +198,7 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/HB325-int.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/HB325-int.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -209,7 +209,7 @@
       "note": "Engrossed",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/HB325-eng.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/HB325-eng.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -220,7 +220,7 @@
       "note": "Enrolled",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/HB325-enr.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/HB325-enr.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -231,7 +231,7 @@
       "note": "Motion to Adopt - Adopted Roll Call 392",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/TBBND19-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/TBBND19-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -242,7 +242,7 @@
       "note": "Local Legislation 1st Amendment",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/4UUCXRI-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/4UUCXRI-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -267,6 +267,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-02T01:30:40+00:00",
-  "_id": "82f1abe6-cf1e-11f0-99f3-feebcb255d32"
+  "scraped_at": "2025-12-20T02:28:23+00:00",
+  "_id": "8e683d1a-dd4b-11f0-b17b-7e56c8572477"
 }

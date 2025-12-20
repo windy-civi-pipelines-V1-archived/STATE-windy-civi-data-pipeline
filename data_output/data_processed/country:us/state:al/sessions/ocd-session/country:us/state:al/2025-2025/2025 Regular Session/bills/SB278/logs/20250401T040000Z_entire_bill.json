@@ -131,7 +131,7 @@
       "note": "Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/SB278-int.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/SB278-int.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -142,7 +142,7 @@
       "note": "Engrossed",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/SB278-eng.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/SB278-eng.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -153,7 +153,7 @@
       "note": "Shelnutt motion to Adopt - Adopted Roll Call 782",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/SL2A155-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/SL2A155-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -166,7 +166,7 @@
       "note": "Fiscal Note: Introduced",
       "links": [
         {
-          "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2025RS/FiscalNotes/FN-ARY2BQS-1.pdf",
+          "url": "https://alison.legislature.state.al.us/files/pdf//SearchableInstruments/2025RS/FiscalNotes/FN-ARY2BQS-1.pdf",
           "media_type": "application/pdf"
         }
       ],
@@ -190,6 +190,6 @@
     "classification": "state",
     "division_id": "ocd-division/country:us/state:al"
   },
-  "scraped_at": "2025-12-02T01:31:09+00:00",
-  "_id": "9441fd60-cf1e-11f0-99f3-feebcb255d32"
+  "scraped_at": "2025-12-20T02:28:48+00:00",
+  "_id": "9db9ecfa-dd4b-11f0-b17b-7e56c8572477"
 }
